@@ -1,0 +1,1 @@
+cmd_/root/rt2x-test/rt2x00-backport44Xubuntu/rt2800pci.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /root/rt2x-test/rt2x00-backport44Xubuntu/rt2800pci.ko /root/rt2x-test/rt2x00-backport44Xubuntu/rt2800pci.o /root/rt2x-test/rt2x00-backport44Xubuntu/rt2800pci.mod.o

@@ -1,0 +1,1 @@
+cmd_/root/rt2x-test/rt2x00-backport44Xubuntu/rt2500usb.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /root/rt2x-test/rt2x00-backport44Xubuntu/rt2500usb.ko /root/rt2x-test/rt2x00-backport44Xubuntu/rt2500usb.o /root/rt2x-test/rt2x00-backport44Xubuntu/rt2500usb.mod.o

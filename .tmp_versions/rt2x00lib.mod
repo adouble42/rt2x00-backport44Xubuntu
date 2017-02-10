@@ -1,2 +1,0 @@
-/root/rt2x-test/rt2x00-backport44Xubuntu/rt2x00lib.ko
-/root/rt2x-test/rt2x00-backport44Xubuntu/rt2x00dev.o /root/rt2x-test/rt2x00-backport44Xubuntu/rt2x00mac.o /root/rt2x-test/rt2x00-backport44Xubuntu/rt2x00config.o /root/rt2x-test/rt2x00-backport44Xubuntu/rt2x00queue.o /root/rt2x-test/rt2x00-backport44Xubuntu/rt2x00link.o /root/rt2x-test/rt2x00-backport44Xubuntu/rt2x00crypto.o /root/rt2x-test/rt2x00-backport44Xubuntu/rt2x00firmware.o /root/rt2x-test/rt2x00-backport44Xubuntu/rt2x00leds.o
